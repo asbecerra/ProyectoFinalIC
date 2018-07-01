@@ -32,7 +32,7 @@ class ConexionBaseDatosTest extends TestCase
     {
         $holaMundo = new ConexionBaseDatos($this->pdo);
 
-        $this->assertEquals('Hola Bar', $helloWorld->hello('Bar'));
+        $this->assertEquals('Hola Bar', $holaMundo->hola('Bar'));
     }
 
     public function testQue()
