@@ -14,7 +14,7 @@ class ConexionBaseDatos
 
     public function hola($que = 'Mundo')
     {
-        $sql = "INSERT INTO hola VALUES (" . $this->pdo->quote($what) . ")";
+        $sql = "INSERT INTO hola VALUES (" . $this->pdo->quote($que) . ")";
         $this->pdo->query($sql);
         return "Hola $que";
     }
