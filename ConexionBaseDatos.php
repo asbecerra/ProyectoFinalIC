@@ -1,6 +1,6 @@
 <?php
 
-class HelloWorld
+class ConexionBaseDatos
 {
     /**
      * @var PDO
@@ -12,17 +12,17 @@ class HelloWorld
         $this->pdo = $pdo;
     }
 
-    public function hello($what = 'World')
+    public function hola($que = 'Mundo')
     {
-        $sql = "INSERT INTO hello VALUES (" . $this->pdo->quote($what) . ")";
+        $sql = "INSERT INTO hola VALUES (" . $this->pdo->quote($what) . ")";
         $this->pdo->query($sql);
-        return "Hello $what";
+        return "Hola $que";
     }
 
 
-    public function what()
+    public function que()
     {
-        $sql = "SELECT what FROM hello";
+        $sql = "SELECT que FROM hola";
         $stmt = $this->pdo->query($sql);
         return $stmt->fetchColumn();
     }
