@@ -6,13 +6,13 @@ div#space
 {
    width: 1px;
    height: 50%;
-   margin-bottom: -571px;
-   float:left
+   margin-bottom: -564px;
+   float:left;
 }
 div#container
 {
    width: 1019px;
-   height: 1142px;
+   height: 1128px;
    margin: 0 auto;
    position: relative;
    clear: left;
@@ -349,6 +349,32 @@ body
 {
    text-align: center;
 }
+#wb_Text10 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text10 div
+{
+   text-align: center;
+}
+#wb_Text11 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: justify;
+}
+#wb_Text11 div
+{
+   text-align: justify;
+}
 #wb_FontAwesomeIcon1
 {
    position: absolute;
@@ -384,9 +410,9 @@ body
 #wb_Text1
 {
    position: absolute;
-   left: 882px;
+   left: 941px;
    top: 139px;
-   width: 100px;
+   width: 41px;
    height: 16px;
    z-index: 2;
    text-align: left;
@@ -499,7 +525,7 @@ body
 }
 #wb_uid6
 {
-   color: #000000;
+   color: #9932CC;
    font-family: Arial;
    font-size: 20px;
 }
@@ -525,7 +551,7 @@ body
 #wb_Image4
 {
    position: absolute;
-   left: 271px;
+   left: 471px;
    top: 797px;
    width: 551px;
    height: 309px;
@@ -533,7 +559,7 @@ body
 }
 #wb_uid7
 {
-   color: #000000;
+   color: #9932CC;
    font-family: Arial;
    font-size: 20px;
 }
@@ -549,7 +575,7 @@ body
 }
 #wb_uid8
 {
-   color: #000000;
+   color: #9932CC;
    font-family: Arial;
    font-size: 20px;
 }
@@ -563,15 +589,47 @@ body
    text-align: center;
    z-index: 18;
 }
+#wb_uid10
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+}
+#wb_uid9
+{
+   color: #9932CC;
+   font-family: Arial;
+   font-size: 20px;
+}
+#wb_Text10
+{
+   position: absolute;
+   left: 16px;
+   top: 765px;
+   width: 322px;
+   height: 24px;
+   text-align: center;
+   z-index: 21;
+}
 #wb_Text8
 {
    position: absolute;
-   left: 385px;
+   left: 631px;
    top: 765px;
    width: 222px;
    height: 24px;
    text-align: center;
    z-index: 20;
+}
+#wb_Text11
+{
+   position: absolute;
+   left: 16px;
+   top: 799px;
+   width: 322px;
+   height: 304px;
+   text-align: justify;
+   z-index: 22;
 }
 #wb_Text9
 {
