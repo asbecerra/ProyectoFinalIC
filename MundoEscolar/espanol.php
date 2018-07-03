@@ -3,7 +3,6 @@
 <head>
 <meta charset="utf-8">
 <title>MUNDO ESCOLAR</title>
-<meta name="generator" content="WYSIWYG Web Builder 11 - http://www.wysiwygwebbuilder.com">
 <link href="font-awesome.min.css" rel="stylesheet">
 <link href="COLEGIO.css" rel="stylesheet">
 <link href="espanol.css" rel="stylesheet">
@@ -47,6 +46,10 @@
 <img src="images/r1w7rpva7q.jpg" id="Image3" alt=""></div>
 <div id="wb_Image4">
 <img src="images/hqbilgqj7i.jpg" id="Image4" alt=""></div>
+<div id="wb_Text6">
+<span id="wb_uid6">El abecedario o alfabeto; es una representación estructurada de las letras que conforman un idioma, en su conjunto, estas letras forman palabras para poder expresar lo que deseemos tanto de forma escrita como fonética e incluso por medio de señales, lo cual hace posible la comunicación estandarizada.<br>Según la gramática oficial de la lengua española, el actual abecedario (alfabeto) español, esta conformado por 27 letras (22 consonantes y 5 vocales), además se reconocen 5 dígrafos compuestos por dos letras que forman un sólo sonido.<br>Tomado de https://abcdario.org/alfabeto-en-espanol/</span></div>
+<div id="wb_Text10">
+<span id="wb_uid7"><strong>EL ABECEDARIO</strong></span></div>
 </div>
 </body>
 </html>
