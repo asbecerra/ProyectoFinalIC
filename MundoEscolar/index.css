@@ -405,9 +405,9 @@ body
 #wb_Text1
 {
    position: absolute;
-   left: 882px;
+   left: 942px;
    top: 139px;
-   width: 100px;
+   width: 40px;
    height: 16px;
    z-index: 2;
    text-align: left;
@@ -542,6 +542,15 @@ body
    height: 16px;
    z-index: 9;
    text-align: left;
+}
+#Html1
+{
+   position: absolute;
+   left: 36px;
+   top: 186px;
+   width: 259px;
+   height: 44px;
+   z-index: 23;
 }
 #wb_uid7
 {
