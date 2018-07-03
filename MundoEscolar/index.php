@@ -3,7 +3,6 @@
 <head>
 <meta charset="utf-8">
 <title>MUNDO ESCOLAR</title>
-<meta name="generator" content="WYSIWYG Web Builder 11 - http://www.wysiwygwebbuilder.com">
 <link href="font-awesome.min.css" rel="stylesheet">
 <link href="COLEGIO.css" rel="stylesheet">
 <link href="index.css" rel="stylesheet">
@@ -40,15 +39,15 @@
 <div id="wb_FontAwesomeIcon1">
 <a href="./espanol.php"><div id="FontAwesomeIcon1"><i class="fa fa-pagelines">&nbsp;</i></div></a></div>
 <div id="wb_Image2">
-<img src="images/wumjnax3r2.jpg" id="Image2" alt=""></div>
+<a href="./sociales.php"><img src="images/wumjnax3r2.jpg" id="Image2" alt=""></a></div>
 <div id="wb_Image3">
-<img src="images/y4ef97bymg.jpg" id="Image3" alt=""></div>
+<a href="./matematicas.php"><img src="images/y4ef97bymg.jpg" id="Image3" alt=""></a></div>
 <div id="wb_Image4">
-<img src="images/t55tv8m54q.jpg" id="Image4" alt=""></div>
+<a href="./naturales.php"><img src="images/t55tv8m54q.jpg" id="Image4" alt=""></a></div>
 <div id="wb_Text6">
 <span id="wb_uid6"><strong>Matematicas;<br>Tablas de multiplicar<br>Divisiones<br>Sumas<br>Restas</strong></span></div>
 <div id="wb_Image5">
-<img src="images/iip4j0e15c.jpg" id="Image5" alt=""></div>
+<a href="./espanol.php"><img src="images/iip4j0e15c.jpg" id="Image5" alt=""></a></div>
 <div id="wb_FontAwesomeIcon3">
 <a href="./index.php"><div id="FontAwesomeIcon3"><i class="fa fa-history">&nbsp;</i></div></a></div>
 <div id="wb_Text7">
@@ -57,6 +56,12 @@
 <span id="wb_uid8"><strong>Ciencias Naturales<br>Ecosistemas<br>Mamiferos<br>Reptiles</strong></span></div>
 <div id="wb_Text10">
 <span id="wb_uid9"><strong>Epañol<br>Abecedario<br>Vocales<br>Consonantes</strong></span></div>
+<div id="Html1">
+<?php
+date_default_timezone_set('America/Bogota');
+$time = time();
+echo date("d-m-Y (H:i:s)", $time);
+?></div>
 </div>
 </body>
 </html>
