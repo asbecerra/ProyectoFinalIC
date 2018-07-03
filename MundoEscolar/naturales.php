@@ -3,7 +3,6 @@
 <head>
 <meta charset="utf-8">
 <title>MUNDO ESCOLAR</title>
-<meta name="generator" content="WYSIWYG Web Builder 11 - http://www.wysiwygwebbuilder.com">
 <link href="font-awesome.min.css" rel="stylesheet">
 <link href="COLEGIO.css" rel="stylesheet">
 <link href="naturales.css" rel="stylesheet">
@@ -47,6 +46,8 @@
 <img src="images/mgttr831to.jpg" id="Image3" alt=""></div>
 <div id="wb_Image4">
 <img src="images/k5tuecnofq.jpg" id="Image4" alt=""></div>
+<div id="wb_Text6">
+<span id="wb_uid6">Los Reptiles son animales vertebrados que se caracterizan por su especial manera de andar, ya que andan arrastrando el vientre por el suelo. Su piel está recubierta de escamas o tienen caparazón (las tortugas).&nbsp;&nbsp;&nbsp; Su respiración es pulmonar. Tienen circulación doble e incompleta por no haber&nbsp; separación total entre la sangre arterial y la venosa.&nbsp; Son carnívoros y cazadores. Tienen dientes que cortan pero no mastican y en algunos casos son venenosos. La temperatura del cuerpo es muy variable. Son ovíparos. Todos tienen cuatro patas excepto las serpientes. Son las tortugas, los lagartos, los cocodrilos y las serpientes.<br>Tomado de http://thales.cica.es/rd/Recursos/rd99/ed99-0456-01/losreptiles.html</span></div>
 </div>
 </body>
 </html>
